@@ -49,15 +49,15 @@ const naufal = {
   role: "Full Stack Developer",
   location: "Indonesia 🇮🇩",
   workStyle: "Working from home 🏠",
-  currentlyLearning: ["Next.js", "TypeScript", "Docker"],   // ganti sesuai kondisi
-  currentlyBuilding: ["Portfolio Website", "Aplikasi Toko Online"],
+  currentlyLearning: ["Next.js", "TypeScript", "Laravel", "Codeigniter"],   // ganti sesuai kondisi
+//   currentlyBuilding: ["Portfolio Website", "Aplikasi Toko Online"],
   funFact: "Kopi dulu, baru ngoding ☕",
   lookingFor: "Kolaborasi proyek web & peluang karier baru 🤝",
 };
 ```
 
-- 🔭 Sedang mengerjakan **website portfolio** dan **aplikasi toko online**
-- 🌱 Sedang memperdalam **TypeScript, Next.js, dan Docker**
+<!-- - 🔭 Sedang mengerjakan **website portfolio** dan **aplikasi toko online** -->
+- 🌱 Sedang memperdalam **TypeScript, Next.js, Laravel, Codeigniter**
 - 💬 Tanya saya seputar **web development (frontend & backend)**
 - ⚡ Prinsip saya: *clean code, simple UI, real impact*
 
@@ -78,13 +78,13 @@ const naufal = {
 **Backend & Database**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,postgres,mongodb&perline=8" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,postgres,firebase,mongodb&perline=9" alt="backend" />
 </p>
 
 **Tools & DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,vercel,linux&perline=8" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,expo,ubuntu&perline=8" alt="tools" />
 </p>
 
 ---
@@ -146,13 +146,13 @@ const naufal = {
       <a href="https://github.com/NaufalMusthofa/siapar_kp_new">📂 Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 Portfolio v1</h3>
+      <h3>🎨 voucher2-update </h3>
       <p>Versi awal portofolio sebagai bahan belajar desain dan layout web.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
-      <a href="https://github.com/NaufalMusthofa/portfolio1">📂 Repository</a>
+      <a href="https://github.com/NaufalMusthofa/voucher2-update">📂 Repository</a>
     </td>
   </tr>
 </table>
