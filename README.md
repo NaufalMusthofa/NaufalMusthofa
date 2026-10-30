@@ -50,7 +50,7 @@ const naufal = {
   location: "Indonesia 🇮🇩",
   workStyle: "Working from home 🏠",
   currentlyLearning: ["Next.js", "TypeScript", "Laravel", "Codeigniter"],   // ganti sesuai kondisi
-  currentlyBuilding: ["Portfolio Website", "Aplikasi Toko Online", "Company Profile", "AI Bot", "Aplikasi Mobile", "DLL"],
+  currentlyBuilding: ["Portfolio Website", "Aplikasi Toko Online", "Company Profile", "AI Chat Bot", "Aplikasi Mobile", "DLL"],
   funFact: "Kopi dulu, baru ngoding ☕",
   lookingFor: "Kolaborasi proyek web & peluang karier baru 🤝",
 };
