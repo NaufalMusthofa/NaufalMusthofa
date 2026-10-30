@@ -112,7 +112,7 @@ const naufal = {
 <!-- ===================== PROYEK ===================== -->
 ## 🚀 Featured Projects
 
-<table>
+<!-- <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 Portfolio Website</h3>
@@ -155,7 +155,7 @@ const naufal = {
       <a href="https://github.com/NaufalMusthofa/voucher2-update">📂 Repository</a>
     </td>
   </tr>
-</table>
+</table> -->
 
 > 💡 Pin 6 repo terbaik di profil: **Customize your pins** (di bawah bio) agar rapi dan konsisten.
 
