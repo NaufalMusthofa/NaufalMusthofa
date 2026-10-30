@@ -84,7 +84,7 @@ const naufal = {
 **Tools & DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,expo,nginx&perline=8" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,vercel,ubuntu&perline=8" alt="tools" />
 </p>
 
 ---
